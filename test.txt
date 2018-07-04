@@ -1,1 +1,1 @@
-This is my first text file transferred to git
+This is my first text file transferred to git, second
